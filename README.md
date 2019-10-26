@@ -1,1 +1,1 @@
-# workshop-web_applications_shiny
+# Building Web Applications with *Shiny*
